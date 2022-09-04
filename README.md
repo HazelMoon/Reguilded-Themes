@@ -1,2 +1,1 @@
-# Reguilded-Themes
-The Themes i make
+The Zip Files (the same as the packaged ones)
